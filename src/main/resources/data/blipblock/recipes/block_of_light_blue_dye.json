@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "blipblock:block_of_light_blue_dye",
+    "count": 1
+  }
+}

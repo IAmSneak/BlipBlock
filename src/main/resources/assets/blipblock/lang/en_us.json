@@ -1,0 +1,30 @@
+{
+  "block.blipblock.block_of_repeater": "Block of Repeater",
+
+  "block.blipblock.block_of_black_dye": "Block of Black Dye",
+  "block.blipblock.block_of_blue_dye": "Block of Blue Dye",
+  "block.blipblock.block_of_brown_dye": "Block of Brown Dye",
+  "block.blipblock.block_of_cyan_dye": "Block of Cyan Dye",
+  "block.blipblock.block_of_gray_dye": "Block of Gray Dye",
+  "block.blipblock.block_of_green_dye": "Block of Green Dye",
+  "block.blipblock.block_of_light_blue_dye": "Block of Light Blue Dye",
+  "block.blipblock.block_of_light_gray_dye": "Block of Light Gray Dye",
+  "block.blipblock.block_of_lime_dye": "Block of Lime Dye",
+  "block.blipblock.block_of_magenta_dye": "Block of Magenta Dye",
+  "block.blipblock.block_of_orange_dye": "Block of Orange Dye",
+  "block.blipblock.block_of_pink_dye": "Block of Pink Dye",
+  "block.blipblock.block_of_purple_dye": "Block of Purple Dye",
+  "block.blipblock.block_of_red_dye": "Block of Red Dye",
+  "block.blipblock.block_of_white_dye": "Block of White Dye",
+  "block.blipblock.block_of_yellow_dye": "Block of Yellow Dye",
+
+  "block.blipblock.flint_pillar": "Flint Pillar",
+  "block.blipblock.block_of_flint": "Block of Flint",
+  "block.blipblock.flint_brick": "Flint Bricks",
+  "block.blipblock.smooth_flint_block": "Smooth Flint Block",
+  "block.blipblock.chiseled_flint_block": "Chiseled Flint Block",
+  "block.blipblock.flint_stairs": "Flint Stairs",
+  "block.blipblock.flint_slab": "Flint Slab",
+  "block.blipblock.smooth_flint_stairs": "Smooth Flint Stairs",
+  "block.blipblock.smooth_flint_slab": "Smooth Flint Slab"
+}

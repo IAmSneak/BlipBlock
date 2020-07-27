@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "blipblock:block_of_white_dye",
+    "count": 1
+  }
+}

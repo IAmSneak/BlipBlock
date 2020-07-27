@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "blipblock:block_of_flint"
+  },
+  "result": "blipblock:chiseled_flint_block",
+  "count": 1
+}
