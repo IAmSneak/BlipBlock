@@ -1,10 +1,7 @@
 package com.gmail.sneakdevs;
 
-import com.gmail.sneakdevs.content.blocks.BlockOfRepeater;
-import com.gmail.sneakdevs.content.blocks.FlintBlocks;
-import com.gmail.sneakdevs.content.blocks.RandomWordBlocks;
+import com.gmail.sneakdevs.content.blocks.*;
 import net.fabricmc.api.ModInitializer;
-import com.gmail.sneakdevs.content.blocks.DyeBlocks;
 
 
 public class BlipBlock implements ModInitializer {
@@ -15,6 +12,8 @@ public class BlipBlock implements ModInitializer {
 		new BlockOfRepeater();
 		new FlintBlocks();
 		new RandomWordBlocks();
+		new StainedPlanks();
+		new CagedSeaLantern();
 	}
 
 }
