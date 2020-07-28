@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "blipblock:caged_prismarine_lantern"
+          "name": "blipblock:red_caged_sea_lantern"
         }
       ],
       "conditions": [

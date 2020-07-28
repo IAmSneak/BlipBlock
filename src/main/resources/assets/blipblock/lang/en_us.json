@@ -28,7 +28,13 @@
   "block.blipblock.smooth_flint_stairs": "Smooth Flint Stairs",
   "block.blipblock.smooth_flint_slab": "Smooth Flint Slab",
 
-  "block.blipblock.caged_prismarine_lantern": "Caged Prismarine Lantern",
   "block.blipblock.wazzasoft_block": "Wazzasoft Block",
-  "block.blipblock.boaconic_block": "Boaconic Block"
+  "block.blipblock.boaconic_block": "Boaconic Block",
+
+  "block.blipblock.caged_sea_lantern": "Caged Sea Lantern",
+  "block.blipblock.red_caged_sea_lantern": "Red Caged Sea Lantern",
+  "block.blipblock.lime_caged_sea_lantern": "Lime Caged Sea Lantern",
+  "block.blipblock.yellow_caged_sea_lantern": "Yellow Caged Sea Lantern",
+  "block.blipblock.orange_caged_sea_lantern": "Orange Caged Sea Lantern",
+  "block.blipblock.purple_caged_sea_lantern": "Purple Caged Sea Lantern"
 }
