@@ -26,5 +26,9 @@
   "block.blipblock.flint_stairs": "Flint Stairs",
   "block.blipblock.flint_slab": "Flint Slab",
   "block.blipblock.smooth_flint_stairs": "Smooth Flint Stairs",
-  "block.blipblock.smooth_flint_slab": "Smooth Flint Slab"
+  "block.blipblock.smooth_flint_slab": "Smooth Flint Slab",
+
+  "block.blipblock.caged_prismarine_lantern": "Caged Prismarine Lantern",
+  "block.blipblock.wazzasoft_block": "Wazzasoft Block",
+  "block.blipblock.boaconic_block": "Boaconic Block"
 }

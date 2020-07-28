@@ -12,11 +12,11 @@ import net.minecraft.tag.Tag;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-public class BlockBase extends Block {
+public class LightBlockBase extends Block {
 
-    public BlockBase(String name, float hardness, float resistance, Material material, BlockSoundGroup sound, ItemGroup itemgroup, Tag<Item> tag, int miningLevel) {
+    public LightBlockBase(String name, float hardness, float resistance, Material material, BlockSoundGroup sound, ItemGroup itemgroup, Tag<Item> tag, int miningLevel, int lightlevel) {
 
-        super(FabricBlockSettings.of(material).sounds(sound).strength(hardness, resistance).requiresTool().breakByTool(tag, miningLevel));
+        super(FabricBlockSettings.of(material).sounds(sound).strength(hardness, resistance).requiresTool().breakByTool(tag, miningLevel).lightLevel(lightlevel));
         Registry.register(Registry.BLOCK, new Identifier("blipblock", name), this);
         Registry.register(Registry.ITEM,new Identifier("blipblock", name), new BlockItem(this, new Item.Settings().maxCount(64).group(itemgroup)));
 
