@@ -44,5 +44,23 @@
   "block.blipblock.lime_caged_sea_lantern_slab": "Lime Caged Sea Lantern Slab",
   "block.blipblock.yellow_caged_sea_lantern_slab": "Yellow Caged Sea Lantern Slab",
   "block.blipblock.orange_caged_sea_lantern_slab": "Orange Caged Sea Lantern Slab",
-  "block.blipblock.purple_caged_sea_lantern_slab": "Purple Caged Sea Lantern Slab"
+  "block.blipblock.purple_caged_sea_lantern_slab": "Purple Caged Sea Lantern Slab",
+
+  "block.blipblock.black_stained_planks": "Black Stained Planks",
+  "block.blipblock.gray_stained_planks": "Gray Stained Planks",
+  "block.blipblock.light_gray_stained_planks": "Light Gray Stained Planks",
+  "block.blipblock.white_stained_planks": "White Stained Planks",
+  "block.blipblock.blue_stained_planks": "Blue Stained Planks",
+  "block.blipblock.yellow_stained_planks": "Yellow Stained Planks",
+  "block.blipblock.orange_stained_planks": "Orange Stained Planks",
+  "block.blipblock.purple_stained_planks": "Purple Stained Planks",
+  "block.blipblock.red_stained_planks": "Red Stained Planks",
+  "block.blipblock.light_blue_stained_planks": "Light Blue Stained Planks",
+  "block.blipblock.green_stained_planks": "Green Stained Planks",
+  "block.blipblock.lime_stained_planks": "Lime Stained Planks",
+  "block.blipblock.pink_stained_planks": "Pink Stained Planks",
+  "block.blipblock.cyan_stained_planks": "Cyan Stained Planks",
+  "block.blipblock.brown_stained_planks": "Brown Stained Planks",
+  "block.blipblock.magenta_stained_planks": "Magenta Stained Planks"
+
 }
