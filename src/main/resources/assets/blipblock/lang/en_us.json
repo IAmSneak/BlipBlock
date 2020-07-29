@@ -32,9 +32,17 @@
   "block.blipblock.boaconic_block": "Boaconic Block",
 
   "block.blipblock.caged_sea_lantern": "Caged Sea Lantern",
+  "block.blipblock.blue_caged_sea_lantern": "Blue Caged Sea Lantern",
   "block.blipblock.red_caged_sea_lantern": "Red Caged Sea Lantern",
   "block.blipblock.lime_caged_sea_lantern": "Lime Caged Sea Lantern",
   "block.blipblock.yellow_caged_sea_lantern": "Yellow Caged Sea Lantern",
   "block.blipblock.orange_caged_sea_lantern": "Orange Caged Sea Lantern",
-  "block.blipblock.purple_caged_sea_lantern": "Purple Caged Sea Lantern"
+  "block.blipblock.purple_caged_sea_lantern": "Purple Caged Sea Lantern",
+  "block.blipblock.caged_sea_lantern_slab": "Caged Sea Lantern Slab",
+  "block.blipblock.blue_caged_sea_lantern_slab": "Blue Caged Sea Lantern Slab",
+  "block.blipblock.red_caged_sea_lantern_slab": "Red Caged Sea Lantern Slab",
+  "block.blipblock.lime_caged_sea_lantern_slab": "Lime Caged Sea Lantern Slab",
+  "block.blipblock.yellow_caged_sea_lantern_slab": "Yellow Caged Sea Lantern Slab",
+  "block.blipblock.orange_caged_sea_lantern_slab": "Orange Caged Sea Lantern Slab",
+  "block.blipblock.purple_caged_sea_lantern_slab": "Purple Caged Sea Lantern Slab"
 }
