@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "blipblock:block/light_blue_stained_planks"
+    }
+}
