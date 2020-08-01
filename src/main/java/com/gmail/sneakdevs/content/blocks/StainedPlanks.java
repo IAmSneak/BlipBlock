@@ -3,6 +3,7 @@ package com.gmail.sneakdevs.content.blocks;
 import com.gmail.sneakdevs.content.types.FenceBase;
 import com.gmail.sneakdevs.content.types.HandBlockBase;
 import com.gmail.sneakdevs.content.types.SlabBase;
+import com.gmail.sneakdevs.content.types.WoodenPressurePlateBase;
 import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
 import net.minecraft.block.Material;
 import net.minecraft.item.ItemGroup;
@@ -60,5 +61,22 @@ public class StainedPlanks {
     public static final FenceBase LIME_STAINED_PLANK_FENCE = new FenceBase("lime_stained_plank_fence", ItemGroup.BUILDING_BLOCKS);
     public static final FenceBase MAGENTA_STAINED_PLANK_FENCE = new FenceBase("magenta_stained_plank_fence", ItemGroup.BUILDING_BLOCKS);
     public static final FenceBase LIGHT_BLUE_STAINED_PLANK_FENCE = new FenceBase("light_blue_stained_plank_fence", ItemGroup.BUILDING_BLOCKS);
+
+    public static final WoodenPressurePlateBase BLACK_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("black_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase GRAY_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("gray_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase LIGHT_GRAY_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("light_gray_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase WHITE_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("white_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase RED_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("red_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase ORANGE_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("orange_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase YELLOW_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("yellow_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase GREEN_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("green_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase BLUE_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("blue_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase CYAN_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("cyan_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase PURPLE_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("purple_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase BROWN_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("brown_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase PINK_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("pink_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase LIME_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("lime_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase MAGENTA_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("magenta_stained_plank_pressure_plate");
+    public static final WoodenPressurePlateBase LIGHT_BLUE_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("light_blue_stained_plank_pressure_plate");
 
 }

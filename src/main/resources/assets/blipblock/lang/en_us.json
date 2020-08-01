@@ -95,5 +95,22 @@
   "block.blipblock.pink_stained_plank_fence": "Pink Stained Plank Fence",
   "block.blipblock.cyan_stained_plank_fence": "Cyan Stained Plank Fence",
   "block.blipblock.brown_stained_plank_fence": "Brown Stained Plank Fence",
-  "block.blipblock.magenta_stained_plank_fence": "Magenta Stained Plank Fence"
+  "block.blipblock.magenta_stained_plank_fence": "Magenta Stained Plank Fence",
+
+  "block.blipblock.black_stained_plank_pressure_plate": "Black Stained Plank Pressure Plate",
+  "block.blipblock.gray_stained_plank_pressure_plate": "Gray Stained Plank Pressure Plate",
+  "block.blipblock.light_gray_stained_plank_pressure_plate": "Light Gray Stained Plank Pressure Plate",
+  "block.blipblock.white_stained_plank_pressure_plate": "White Stained Plank Pressure Plate",
+  "block.blipblock.blue_stained_plank_pressure_plate": "Blue Stained Plank Pressure Plate",
+  "block.blipblock.yellow_stained_plank_pressure_plate": "Yellow Stained Plank Pressure Plate",
+  "block.blipblock.orange_stained_plank_pressure_plate": "Orange Stained Plank Pressure Plate",
+  "block.blipblock.purple_stained_plank_pressure_plate": "Purple Stained Plank Pressure Plate",
+  "block.blipblock.red_stained_plank_pressure_plate": "Red Stained Plank Pressure Plate",
+  "block.blipblock.light_blue_stained_plank_pressure_plate": "Light Blue Stained Plank Pressure Plate",
+  "block.blipblock.green_stained_plank_pressure_plate": "Green Stained Plank Pressure Plate",
+  "block.blipblock.lime_stained_plank_pressure_plate": "Lime Stained Plank Pressure Plate",
+  "block.blipblock.pink_stained_plank_pressure_plate": "Pink Stained Plank Pressure Plate",
+  "block.blipblock.cyan_stained_plank_pressure_plate": "Cyan Stained Plank Pressure Plate",
+  "block.blipblock.brown_stained_plank_pressure_plate": "Brown Stained Plank Pressure Plate",
+  "block.blipblock.magenta_stained_plank_pressure_plate": "Magenta Stained Plank Pressure Plate"
 }
