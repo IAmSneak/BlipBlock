@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "blipblock:block/lime_stained_planks",
+        "top": "blipblock:block/lime_stained_planks",
+        "side": "blipblock:block/lime_stained_planks"
+    }
+}
