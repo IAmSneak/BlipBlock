@@ -76,6 +76,23 @@ public class StainedPlanks {
     public static final FenceBase MAGENTA_STAINED_PLANK_FENCE = new FenceBase("magenta_stained_plank_fence", ItemGroup.DECORATIONS);
     public static final FenceBase LIGHT_BLUE_STAINED_PLANK_FENCE = new FenceBase("light_blue_stained_plank_fence", ItemGroup.DECORATIONS);
 
+    public static final FenceGateBase BLACK_STAINED_PLANK_FENCE_GATE = new FenceGateBase("black_stained_plank_fence_gate");
+    public static final FenceGateBase GRAY_STAINED_PLANK_FENCE_GATE = new FenceGateBase("gray_stained_plank_fence_gate");
+    public static final FenceGateBase LIGHT_GRAY_STAINED_PLANK_FENCE_GATE = new FenceGateBase("light_gray_stained_plank_fence_gate");
+    public static final FenceGateBase WHITE_STAINED_PLANK_FENCE_GATE = new FenceGateBase("white_stained_plank_fence_gate");
+    public static final FenceGateBase RED_STAINED_PLANK_FENCE_GATE = new FenceGateBase("red_stained_plank_fence_gate");
+    public static final FenceGateBase ORANGE_STAINED_PLANK_FENCE_GATE = new FenceGateBase("orange_stained_plank_fence_gate");
+    public static final FenceGateBase YELLOW_STAINED_PLANK_FENCE_GATE = new FenceGateBase("yellow_stained_plank_fence_gate");
+    public static final FenceGateBase GREEN_STAINED_PLANK_FENCE_GATE = new FenceGateBase("green_stained_plank_fence_gate");
+    public static final FenceGateBase BLUE_STAINED_PLANK_FENCE_GATE = new FenceGateBase("blue_stained_plank_fence_gate");
+    public static final FenceGateBase CYAN_STAINED_PLANK_FENCE_GATE = new FenceGateBase("cyan_stained_plank_fence_gate");
+    public static final FenceGateBase PURPLE_STAINED_PLANK_FENCE_GATE = new FenceGateBase("purple_stained_plank_fence_gate");
+    public static final FenceGateBase BROWN_STAINED_PLANK_FENCE_GATE = new FenceGateBase("brown_stained_plank_fence_gate");
+    public static final FenceGateBase PINK_STAINED_PLANK_FENCE_GATE = new FenceGateBase("pink_stained_plank_fence_gate");
+    public static final FenceGateBase LIME_STAINED_PLANK_FENCE_GATE = new FenceGateBase("lime_stained_plank_fence_gate");
+    public static final FenceGateBase MAGENTA_STAINED_PLANK_FENCE_GATE = new FenceGateBase("magenta_stained_plank_fence_gate");
+    public static final FenceGateBase LIGHT_BLUE_STAINED_PLANK_FENCE_GATE = new FenceGateBase("light_blue_stained_plank_fence_gate");
+
     public static final WoodenPressurePlateBase BLACK_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("black_stained_plank_pressure_plate");
     public static final WoodenPressurePlateBase GRAY_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("gray_stained_plank_pressure_plate");
     public static final WoodenPressurePlateBase LIGHT_GRAY_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("light_gray_stained_plank_pressure_plate");
