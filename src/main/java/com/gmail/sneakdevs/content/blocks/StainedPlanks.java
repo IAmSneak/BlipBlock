@@ -93,4 +93,21 @@ public class StainedPlanks {
     public static final WoodenPressurePlateBase MAGENTA_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("magenta_stained_plank_pressure_plate");
     public static final WoodenPressurePlateBase LIGHT_BLUE_STAINED_PLANK_PRESSURE_PLATE = new WoodenPressurePlateBase("light_blue_stained_plank_pressure_plate");
 
+    public static final WoodenButtonBase BLACK_STAINED_PLANK_BUTTON = new WoodenButtonBase("black_stained_plank_button");
+    public static final WoodenButtonBase GRAY_STAINED_PLANK_BUTTON = new WoodenButtonBase("gray_stained_plank_button");
+    public static final WoodenButtonBase LIGHT_GRAY_STAINED_PLANK_BUTTON = new WoodenButtonBase("light_gray_stained_plank_button");
+    public static final WoodenButtonBase WHITE_STAINED_PLANK_BUTTON = new WoodenButtonBase("white_stained_plank_button");
+    public static final WoodenButtonBase RED_STAINED_PLANK_BUTTON = new WoodenButtonBase("red_stained_plank_button");
+    public static final WoodenButtonBase ORANGE_STAINED_PLANK_BUTTON = new WoodenButtonBase("orange_stained_plank_button");
+    public static final WoodenButtonBase YELLOW_STAINED_PLANK_BUTTON = new WoodenButtonBase("yellow_stained_plank_button");
+    public static final WoodenButtonBase GREEN_STAINED_PLANK_BUTTON = new WoodenButtonBase("green_stained_plank_button");
+    public static final WoodenButtonBase BLUE_STAINED_PLANK_BUTTON = new WoodenButtonBase("blue_stained_plank_button");
+    public static final WoodenButtonBase CYAN_STAINED_PLANK_BUTTON = new WoodenButtonBase("cyan_stained_plank_button");
+    public static final WoodenButtonBase PURPLE_STAINED_PLANK_BUTTON = new WoodenButtonBase("purple_stained_plank_button");
+    public static final WoodenButtonBase BROWN_STAINED_PLANK_BUTTON = new WoodenButtonBase("brown_stained_plank_button");
+    public static final WoodenButtonBase PINK_STAINED_PLANK_BUTTON = new WoodenButtonBase("pink_stained_plank_button");
+    public static final WoodenButtonBase LIME_STAINED_PLANK_BUTTON = new WoodenButtonBase("lime_stained_plank_button");
+    public static final WoodenButtonBase MAGENTA_STAINED_PLANK_BUTTON = new WoodenButtonBase("magenta_stained_plank_button");
+    public static final WoodenButtonBase LIGHT_BLUE_STAINED_PLANK_BUTTON = new WoodenButtonBase("light_blue_stained_plank_button");
+
 }

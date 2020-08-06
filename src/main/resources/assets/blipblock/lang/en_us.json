@@ -129,5 +129,23 @@
   "block.blipblock.pink_stained_plank_pressure_plate": "Pink Stained Plank Pressure Plate",
   "block.blipblock.cyan_stained_plank_pressure_plate": "Cyan Stained Plank Pressure Plate",
   "block.blipblock.brown_stained_plank_pressure_plate": "Brown Stained Plank Pressure Plate",
-  "block.blipblock.magenta_stained_plank_pressure_plate": "Magenta Stained Plank Pressure Plate"
+  "block.blipblock.magenta_stained_plank_pressure_plate": "Magenta Stained Plank Pressure Plate",
+
+  "block.blipblock.black_stained_plank_button": "Black Stained Plank Button",
+  "block.blipblock.gray_stained_plank_button": "Gray Stained Plank Button",
+  "block.blipblock.light_gray_stained_plank_button": "Light Gray Stained Plank Button",
+  "block.blipblock.white_stained_plank_button": "White Stained Plank Button",
+  "block.blipblock.blue_stained_plank_button": "Blue Stained Plank Button",
+  "block.blipblock.yellow_stained_plank_button": "Yellow Stained Plank Button",
+  "block.blipblock.orange_stained_plank_button": "Orange Stained Plank Button",
+  "block.blipblock.purple_stained_plank_button": "Purple Stained Plank Button",
+  "block.blipblock.red_stained_plank_button": "Red Stained Plank Button",
+  "block.blipblock.light_blue_stained_plank_button": "Light Blue Stained Plank Button",
+  "block.blipblock.green_stained_plank_button": "Green Stained Plank Button",
+  "block.blipblock.lime_stained_plank_button": "Lime Stained Plank Button",
+  "block.blipblock.pink_stained_plank_button": "Pink Stained Plank Button",
+  "block.blipblock.cyan_stained_plank_button": "Cyan Stained Plank Button",
+  "block.blipblock.brown_stained_plank_button": "Brown Stained Plank Button",
+  "block.blipblock.magenta_stained_plank_button": "Magenta Stained Plank Button"
+
 }
