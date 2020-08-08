@@ -1,6 +1,0 @@
-{
-    "parent": "block/button",
-    "textures": {
-        "texture": "blipblock:block/brown_stained_planks"
-    }
-}

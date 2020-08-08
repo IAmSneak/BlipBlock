@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "blipblock:block/smooth_flint_block",
-        "top": "blipblock:block/smooth_flint_block",
-        "side": "blipblock:block/smooth_flint_block"
-    }
-}

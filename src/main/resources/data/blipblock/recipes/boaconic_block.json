@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:lapis_block"
-  },
-  "result": "blipblock:boaconic_block",
-  "experience": 6,
-  "cookingtime": 200
-}

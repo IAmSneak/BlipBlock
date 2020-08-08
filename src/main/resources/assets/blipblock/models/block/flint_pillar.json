@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_column",
-  "textures": {
-    "end": "blipblock:block/flint_pillar_top",
-    "side": "blipblock:block/flint_pillar_side"
-  }
-}

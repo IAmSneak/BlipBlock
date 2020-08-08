@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "type=bottom": { "model": "blipblock:block/magenta_stained_plank_slab" },
-    "type=top": { "model": "blipblock:block/magenta_stained_plank_slab_top" },
-    "type=double": { "model": "blipblock:block/magenta_stained_planks" }
-  }
-}

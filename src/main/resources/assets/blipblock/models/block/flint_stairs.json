@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "blipblock:block/block_of_flint",
-        "top": "blipblock:block/block_of_flint",
-        "side": "blipblock:block/block_of_flint"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "blipblock:block/red_stained_planks",
-        "top": "blipblock:block/red_stained_planks",
-        "side": "blipblock:block/red_stained_planks"
-    }
-}
