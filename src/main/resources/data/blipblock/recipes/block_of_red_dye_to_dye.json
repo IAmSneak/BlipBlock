@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blipblock:block_of_red_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 9
+  }
+}

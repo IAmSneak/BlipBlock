@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "blipblock:block/brown_stained_planks",
+        "top": "blipblock:block/brown_stained_planks",
+        "side": "blipblock:block/brown_stained_planks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/button_pressed",
+    "textures": {
+        "texture": "blipblock:block/purple_stained_planks"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "blipblock:block/chiseled_flint_block"},
+    "axis=z": { "model": "blipblock:block/chiseled_flint_block", "x": 90 },
+    "axis=x": { "model": "blipblock:block/chiseled_flint_block", ",x": 90, "y": 90 }
+  }
+}

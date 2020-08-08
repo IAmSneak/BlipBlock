@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "blipblock:yellow_stained_planks"
+    }
+  },
+  "result": {
+    "item": "blipblock:yellow_stained_plank_pressure_plate",
+    "count": 6
+  }
+}

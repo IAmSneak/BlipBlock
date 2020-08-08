@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blipblock:block/yellow_caged_sea_lantern"
+    }
+}
