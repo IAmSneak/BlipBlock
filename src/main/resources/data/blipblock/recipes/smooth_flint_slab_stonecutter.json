@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "blipblock:smooth_flint_block"
-  },
-  "result": "blipblock:smooth_flint_slab",
-  "count": 2
-}

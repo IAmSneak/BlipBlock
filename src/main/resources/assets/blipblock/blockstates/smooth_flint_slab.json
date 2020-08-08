@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "type=bottom": { "model": "blipblock:block/smooth_flint_slab" },
-    "type=top": { "model": "blipblock:block/smooth_flint_slab_top" },
-    "type=double": { "model": "blipblock:block/smooth_flint_block" }
-  }
-}

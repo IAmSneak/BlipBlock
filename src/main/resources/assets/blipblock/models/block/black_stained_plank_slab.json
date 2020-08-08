@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "blipblock:block/black_stained_planks",
-        "top": "blipblock:block/black_stained_planks",
-        "side": "blipblock:block/black_stained_planks"
-    }
-}

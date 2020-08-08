@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "blipblock:block/caged_sea_lantern",
-        "top": "blipblock:block/caged_sea_lantern",
-        "side": "blipblock:block/caged_sea_lantern"
-    }
-}

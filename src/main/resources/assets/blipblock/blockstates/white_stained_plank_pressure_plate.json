@@ -1,7 +1,0 @@
-
-{
-  "variants": {
-    "powered=false": { "model": "blipblock:block/white_stained_plank_pressure_plate" },
-    "powered=true": { "model": "blipblock:block/white_stained_plank_pressure_plate_down" }
-  }
-}
