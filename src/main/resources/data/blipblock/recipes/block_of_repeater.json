@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:repeater"
+    }
+  },
+  "result": {
+    "item": "blipblock:block_of_repeater",
+    "count": 1
+  }
+}

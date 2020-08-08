@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down": { "model": "blipblock:block/block_of_repeater", "x": 180 },
+    "facing=up": { "model": "blipblock:block/block_of_repeater" },
+    "facing=north": { "model": "blipblock:block/block_of_repeater", "x": 90 },
+    "facing=south": { "model": "blipblock:block/block_of_repeater", "x": 90, "y": 180 },
+    "facing=west": { "model": "blipblock:block/block_of_repeater", "x": 90, "y": 270 },
+    "facing=east": { "model": "blipblock:block/block_of_repeater", "x": 90, "y": 90 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "blipblock:block/red_stained_planks"
+    }
+}

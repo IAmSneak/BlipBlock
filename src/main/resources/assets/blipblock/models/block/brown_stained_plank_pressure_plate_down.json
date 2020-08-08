@@ -1,0 +1,6 @@
+{
+"parent": "block/pressure_plate_down",
+"textures": {
+"texture": "blipblock:block/brown_stained_planks"
+    }
+}

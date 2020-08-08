@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "blipblock:block/purple_caged_sea_lantern_slab" },
+    "type=top": { "model": "blipblock:block/purple_caged_sea_lantern_slab_top" },
+    "type=double": { "model": "blipblock:block/purple_caged_sea_lantern" }
+  }
+}

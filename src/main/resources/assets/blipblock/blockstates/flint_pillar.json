@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "blipblock:block/flint_pillar"},
+    "axis=z": { "model": "blipblock:block/flint_pillar", "x": 90 },
+    "axis=x": { "model": "blipblock:block/flint_pillar", "x": 90, "y": 90 }
+  }
+}

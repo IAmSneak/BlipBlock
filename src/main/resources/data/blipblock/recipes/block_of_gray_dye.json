@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "item": "blipblock:block_of_gray_dye",
+    "count": 1
+  }
+}

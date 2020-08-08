@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "blipblock:pink_stained_planks"
+        }
+    ],
+    "result": {
+        "item": "blipblock:pink_stained_plank_button",
+        "count": 1
+    }
+}

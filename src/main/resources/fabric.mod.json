@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "spongesplus",
+  "id": "blipblock",
   "version": "${version}",
 
-  "name": "Sponges Plus",
-  "description": "Adds 3 sponge tiers for lava and water sponges",
+  "name": "Blip Block",
+  "description": "It adds blocks.",
   "authors": [
-    "IAmTheSneak"
+    "IAmSneak"
   ],
   "contact": {
     "sources": "https://github.com/IAmSneak/BlipBlock"
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.gmail.sneakdevs.SpongesPlus"
+      "com.gmail.sneakdevs.BlipBlock"
     ]
   },
   "mixins": [

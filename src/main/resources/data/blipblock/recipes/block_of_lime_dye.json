@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "blipblock:block_of_lime_dye",
+    "count": 1
+  }
+}
