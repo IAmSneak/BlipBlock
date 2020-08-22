@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "blipblock:orange_sea_lantern"
+      "item": "blipblock:caged_sea_lantern"
     },
     {
       "item": "minecraft:red_dye"
